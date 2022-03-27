@@ -7,3 +7,6 @@ In this project I practiced the basic work of a data analyst such as data prepro
 Here is the link of datasets:
 - Link 1: [Covid 19 Global](https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset)
 - Link 2: [Covid 19 Vaccination Progess](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress)
+- 
+# [Project 2: Updating...]()
+
