@@ -11,8 +11,8 @@ Here is the link of datasets:
 - Link 1: [Covid 19 Global](https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset)
 - Link 2: [Covid 19 Vaccination Progess](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress)
 
-# [Project 2: Car Price Prediction With MLR](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project2_CarPricePrediction(MLR))
-### [Click here to view project](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project2_CarPricePrediction(MLR))
+# [Project 2: Car Price Prediction With MLR](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project2_CarPricePrediction_MLR)
+### [Click here to view project](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project2_CarPricePrediction_MLR)
 This project implemented using MLR to build an external vehicle price prediction model and used some data analyst skills such as data collection, data cleaning, data correlation, evaluation. model (basic).
 
 # [Project 3: Updating......]()
