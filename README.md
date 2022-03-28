@@ -1,3 +1,6 @@
+<a href="#"><img width="65%" height="70%" src="https://iconews.iconpln.co.id/wp-content/uploads/2020/05/SDM_COVER.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm KhanhDuy</h1>
 # KhanhDuy-s_Portfolio
 Compilation of analytics project
 This repository is containing portfolio of data science and data analyst projects completed by me (and sometimes with my team) for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebooks.
