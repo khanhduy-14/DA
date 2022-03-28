@@ -32,5 +32,5 @@ Here is the link of datasets:
 ### [Click here to view project](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project2_CarPricePrediction(MLR))
 This project implemented using MLR to build an external vehicle price prediction model and used some data analyst skills such as data collection, data cleaning, data correlation, evaluation. model (basic).
 
-# [Project 3: Updating...]()
+# [Project 3: Updating....]()
 
