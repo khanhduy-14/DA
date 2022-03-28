@@ -8,5 +8,7 @@ Here is the link of datasets:
 - Link 1: [Covid 19 Global](https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset)
 - Link 2: [Covid 19 Vaccination Progess](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress)
 
-# [Project 2: Updating...]()
+# [Project 3: Car Price Prediction With MLR]()
+
+# [Project 3: Updating...]()
 
