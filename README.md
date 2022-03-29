@@ -25,9 +25,9 @@ This repository is containing portfolio of data science and data analyst project
 
 # [Project 1: The analysis of Covid -19](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project1_TheAnalysisOfCovid19)
 ### [Click here to view project](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project1_TheAnalysisOfCovid19)
-- In this project I practiced the basic work of a data analyst such as data preprocessing: data collection, data cleaning, data extraction and Exploratory Data Analysis to learn the Covid - 19 problem through 2 datasets on Kaggle.com
 - Team size: 1
-Here is the link of datasets:
+- In this project I practiced the basic work of a data analyst such as data preprocessing: data collection, data cleaning, data extraction and Exploratory Data Analysis to learn the Covid - 19 problem through 2 datasets on Kaggle.com
+- Here is the link of datasets:
  1. Link 1: [Covid 19 Global](https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset)
  2. Link 2: [Covid 19 Vaccination Progess](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress)
 
@@ -47,4 +47,15 @@ Here is the link of datasets:
 - This project i did at the end of the 'Database Management System 1' course in my university. The project implements the design of the Database through Power Design and deploys that database on Microsoft SQL and executes support queries during the management process.
 
 # [Project 5: Model Evaluation and Refinement (Updating...)]()
+
+
+<h1 align="center"><img src="https://img.icons8.com/color/48/000000/filled-like.png" width="30px"> Thank you for taking the time to read</h1>
+
+<h2 align="left"> My Certificates as Data Analyst: </h2>
+
+### 1. [IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/8VJVJLU5729W) [- Click here to view](https://www.coursera.org/account/accomplishments/specialization/certificate/8VJVJLU5729W)
+### 2. [ Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UJK4Y8VJRNYR) [- Click here to view](https://www.coursera.org/account/accomplishments/specialization/certificate/UJK4Y8VJRNYR)
+
+
+### Pageviews: <a href="https://www.freecounterstat.com" title="free visitor counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=gkc615gw8x6jy11p6hfql7ukgpumnqc3" border="0" title="free visitor counter" alt="free visitor counter"></a>
 
