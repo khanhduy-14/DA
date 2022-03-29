@@ -1,8 +1,8 @@
-<a href="#"><img width="65%" height="70%" src="https://iconews.iconpln.co.id/wp-content/uploads/2020/05/SDM_COVER.png" height="175px"/></a>
+<h1 align="center"><a href="#"><img width="65%" height="70%" src="https://iconews.iconpln.co.id/wp-content/uploads/2020/05/SDM_COVER.png" height="175px"/></a></h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm KhanhDuy</h1>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm KhanhDuy</h2>
 
-# KhanhDuy-s_Portfolio
+# KhanhDuy's Portfolio
 Compilation of analytics project
 
 This repository is containing portfolio of data science and data analyst projects completed by me (and sometimes with my team) for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebooks.
@@ -11,6 +11,8 @@ This repository is containing portfolio of data science and data analyst project
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a> 
+    <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/> </a> 
 </p>
 
 ## Connect with me:
@@ -25,13 +27,25 @@ This repository is containing portfolio of data science and data analyst project
 # [Project 1: The analysis of Covid -19](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project1_TheAnalysisOfCovid19)
 ### [Click here to view project](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project1_TheAnalysisOfCovid19)
 In this project I practiced the basic work of a data analyst such as data preprocessing: data collection, data cleaning, data extraction and Exploratory Data Analysis to learn the Covid - 19 problem through 2 datasets on Kaggle.com
+Team size: 1
 Here is the link of datasets:
 - Link 1: [Covid 19 Global](https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset)
 - Link 2: [Covid 19 Vaccination Progess](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress)
 
 # [Project 2: Car Price Prediction With MLR](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project2_CarPricePrediction_MLR)
 ### [Click here to view project](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project2_CarPricePrediction_MLR)
+Team size: 1
 This project implemented using MLR to build an external vehicle price prediction model and used some data analyst skills such as data collection, data cleaning, data correlation, evaluation. model (basic).
 
-# [Project 3: Updating......]()
+# [Project 3: Driver License Management_sqldev-oracle](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project3_DriverLicenseManagement_sqldev-oracle)
+### [Click here to view project](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project3_DriverLicenseManagement_sqldev-oracle)
+Team size: 2
+This project i did at the end of the 'Database Management System 2' course in my university. The project implements the design of the Database through Power Design and deploys that database on Oracle SQL Dev and executes support queries during the management process.
+
+# [Project 4: Air Ticket Sales Management_MsSQL](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project4_Airticketsalesmanagement_MsSQL)
+### [Click here to view project](https://github.com/thkduy2001/KhanhDuy-s_Portfolio/tree/main/Project4_Airticketsalesmanagement_MsSQL)
+Team size: 2
+This project i did at the end of the 'Database Management System 1' course in my university. The project implements the design of the Database through Power Design and deploys that database on Microsoft SQL and executes support queries during the management process.
+
+# [Project 5: Model Evaluation and Refinement (Updating...)]()
 
