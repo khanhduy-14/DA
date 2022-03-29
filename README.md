@@ -1,6 +1,5 @@
-<h1 align="center"><a href="#"><img width="65%" height="70%" src="https://iconews.iconpln.co.id/wp-content/uploads/2020/05/SDM_COVER.png" height="175px"/></a></h1>
-
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm KhanhDuy</h2>
+<p align="center"><a href="#"><img width="65%" height="70%" src="https://iconews.iconpln.co.id/wp-content/uploads/2020/05/SDM_COVER.png" height="175px"/></a></p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm KhanhDuy</h1>
 
 # KhanhDuy's Portfolio
 Compilation of analytics project
