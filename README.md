@@ -57,5 +57,6 @@ This repository is containing portfolio of data science and data analyst project
 ### 2. [ Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UJK4Y8VJRNYR) [- Click here to view](https://www.coursera.org/account/accomplishments/specialization/certificate/UJK4Y8VJRNYR)
 
 
-### Pageviews: <a href="https://www.freecounterstat.com" title="free counters for websites"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=pjd9xxwwhxy8wehp61f5rflqtc8hnpq9" border="0" title="free counters for websites" alt="free counters for websites"></a>
+### Pageviews: <a href="https://www.freecounterstat.com" title="free counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=5r6pc2gdf6f5c7p66azyhb1162kx5ftd" border="0" title="free counter" alt="free counter"></a>
+
 
