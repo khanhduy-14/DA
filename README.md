@@ -45,7 +45,7 @@ This repository is containing portfolio of data science and data analyst project
 - Team size: 2
 - This project i did at the end of the 'Database Management System 1' course in my university. The project implements the design of the Database through Power Design and deploys that database on Microsoft SQL and executes support queries during the management process.
 
-# [Project 5: Model Evaluation and Refinement (Updating...)]()
+
 
 
 <h1 align="center"><img src="https://img.icons8.com/color/48/000000/filled-like.png" width="30px"> Thank you for taking the time to read</h1>
