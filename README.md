@@ -18,7 +18,6 @@ This repository is containing portfolio of data science and data analyst project
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/duytran2001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/tranhakhanhduy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/tranhakhanhduy/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
 </p>
