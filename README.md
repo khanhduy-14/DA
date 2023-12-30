@@ -1,21 +1,14 @@
 
-Compilation of analytics project
-
-This repository is containing portfolio of data science and data analyst projects completed by me (and sometimes with my team) for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebooks.
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a> 
-    <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/> </a> 
 </p>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/duytran2001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/tranhakhanhduy/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href = "https://www.linkedin.com/in/khanhduy14/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
@@ -44,13 +37,9 @@ This repository is containing portfolio of data science and data analyst project
 
 
 
-
-<h1 align="center"><img src="https://img.icons8.com/color/48/000000/filled-like.png" width="30px"> Thank you for taking the time to read</h1>
-
 <h2 align="left"> My Certificates as Data Analyst: </h2>
 
-### 1. [IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/8VJVJLU5729W) [- Click here to view](https://www.coursera.org/account/accomplishments/specialization/certificate/8VJVJLU5729W)
-### 2. [ Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UJK4Y8VJRNYR) [- Click here to view](https://www.coursera.org/account/accomplishments/specialization/certificate/UJK4Y8VJRNYR)
+### [IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/8VJVJLU5729W)
 
 
 ### Pageviews: <a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=61kssgy7kys77e9qhwygfm9n2q96zd8n" border="0" title="hit counter" alt="hit counter"></a>
